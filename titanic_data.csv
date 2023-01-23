@@ -1,0 +1,1034 @@
+,Passenger Class,Sex,Age,# Siblings / Spouse,# Parents / Children,Fare,Port Embarked,Survived
+0,First,Female,29,0,0,211.34,Southampton,Survived
+1,First,Male,1,1,2,151.55,Southampton,Survived
+2,First,Female,2,1,2,151.55,Southampton,Did not survive
+3,First,Male,30,1,2,151.55,Southampton,Did not survive
+4,First,Female,25,1,2,151.55,Southampton,Did not survive
+5,First,Male,48,0,0,26.55,Southampton,Survived
+6,First,Female,63,1,0,77.96,Southampton,Survived
+7,First,Female,53,2,0,51.48,Southampton,Survived
+8,First,Male,71,0,0,49.5,Cherbourg,Did not survive
+9,First,Male,47,1,0,227.53,Cherbourg,Did not survive
+10,First,Female,18,1,0,227.53,Cherbourg,Survived
+11,First,Female,24,0,0,69.3,Cherbourg,Survived
+12,First,Female,26,0,0,78.85,Southampton,Survived
+13,First,Male,80,0,0,30.0,Southampton,Survived
+14,First,Male,24,0,1,247.52,Cherbourg,Did not survive
+15,First,Female,50,0,1,247.52,Cherbourg,Survived
+16,First,Female,32,0,0,76.29,Cherbourg,Survived
+17,First,Male,36,0,0,75.24,Cherbourg,Did not survive
+18,First,Male,37,1,1,52.55,Southampton,Survived
+19,First,Female,47,1,1,52.55,Southampton,Survived
+20,First,Male,26,0,0,30.0,Cherbourg,Survived
+21,First,Female,42,0,0,227.53,Cherbourg,Survived
+22,First,Female,29,0,0,221.78,Southampton,Survived
+23,First,Male,25,0,0,26.0,Cherbourg,Did not survive
+24,First,Male,25,1,0,91.08,Cherbourg,Survived
+25,First,Female,19,1,0,91.08,Cherbourg,Survived
+26,First,Female,35,0,0,135.63,Southampton,Survived
+27,First,Male,28,0,0,26.55,Southampton,Survived
+28,First,Male,45,0,0,35.5,Southampton,Did not survive
+29,First,Male,40,0,0,31.0,Cherbourg,Survived
+30,First,Female,30,0,0,164.87,Southampton,Survived
+31,First,Female,58,0,0,26.55,Southampton,Survived
+32,First,Male,42,0,0,26.55,Southampton,Did not survive
+33,First,Female,45,0,0,262.38,Cherbourg,Survived
+34,First,Female,22,0,1,55.0,Southampton,Survived
+35,First,Male,41,0,0,30.5,Southampton,Did not survive
+36,First,Male,48,0,0,50.5,Cherbourg,Did not survive
+37,First,Female,44,0,0,27.72,Cherbourg,Survived
+38,First,Female,59,2,0,51.48,Southampton,Survived
+39,First,Female,60,0,0,76.29,Cherbourg,Survived
+40,First,Female,41,0,0,134.5,Cherbourg,Survived
+41,First,Male,45,0,0,26.55,Southampton,Did not survive
+42,First,Male,42,0,0,26.29,Southampton,Survived
+43,First,Female,53,0,0,27.45,Cherbourg,Survived
+44,First,Male,33,0,0,5.0,Southampton,Did not survive
+45,First,Male,28,0,0,47.1,Southampton,Did not survive
+46,First,Male,17,0,0,47.1,Southampton,Did not survive
+47,First,Male,11,1,2,120.0,Southampton,Survived
+48,First,Female,14,1,2,120.0,Southampton,Survived
+49,First,Male,36,1,2,120.0,Southampton,Survived
+50,First,Female,36,1,2,120.0,Southampton,Survived
+51,First,Male,49,0,0,26.0,Southampton,Did not survive
+52,First,Male,36,1,0,78.85,Southampton,Did not survive
+53,First,Female,76,1,0,78.85,Southampton,Survived
+54,First,Male,46,1,0,61.17,Southampton,Did not survive
+55,First,Female,47,1,0,61.17,Southampton,Survived
+56,First,Male,27,1,0,53.1,Southampton,Survived
+57,First,Female,33,1,0,53.1,Southampton,Survived
+58,First,Female,36,0,0,262.38,Cherbourg,Survived
+59,First,Female,30,0,0,86.5,Southampton,Survived
+60,First,Male,45,0,0,29.7,Cherbourg,Survived
+61,First,Male,27,1,0,136.78,Cherbourg,Did not survive
+62,First,Female,26,1,0,136.78,Cherbourg,Survived
+63,First,Female,22,0,0,151.55,Southampton,Survived
+64,First,Male,47,0,0,25.59,Southampton,Did not survive
+65,First,Female,39,1,1,83.16,Cherbourg,Survived
+66,First,Male,37,1,1,83.16,Cherbourg,Did not survive
+67,First,Female,64,0,2,83.16,Cherbourg,Survived
+68,First,Female,55,2,0,25.7,Southampton,Survived
+69,First,Male,70,1,1,71.0,Southampton,Did not survive
+70,First,Female,36,0,2,71.0,Southampton,Survived
+71,First,Female,64,1,1,26.55,Southampton,Survived
+72,First,Male,39,1,0,71.28,Cherbourg,Did not survive
+73,First,Female,38,1,0,71.28,Cherbourg,Survived
+74,First,Male,51,0,0,26.55,Southampton,Survived
+75,First,Male,27,0,0,30.5,Southampton,Survived
+76,First,Female,33,0,0,151.55,Southampton,Survived
+77,First,Male,31,1,0,52.0,Southampton,Did not survive
+78,First,Female,27,1,2,52.0,Southampton,Survived
+79,First,Male,31,1,0,57.0,Southampton,Survived
+80,First,Female,17,1,0,57.0,Southampton,Survived
+81,First,Male,53,1,1,81.86,Southampton,Survived
+82,First,Male,4,0,2,81.86,Southampton,Survived
+83,First,Female,54,1,1,81.86,Southampton,Survived
+84,First,Male,50,1,0,106.42,Cherbourg,Did not survive
+85,First,Female,27,1,1,247.52,Cherbourg,Survived
+86,First,Female,48,1,0,106.42,Cherbourg,Survived
+87,First,Female,48,1,0,39.6,Cherbourg,Survived
+88,First,Male,49,1,0,56.93,Cherbourg,Survived
+89,First,Male,39,0,0,29.7,Cherbourg,Did not survive
+90,First,Female,23,0,1,83.16,Cherbourg,Survived
+91,First,Female,38,0,0,227.53,Cherbourg,Survived
+92,First,Female,54,1,0,78.27,Cherbourg,Survived
+93,First,Female,36,0,0,31.68,Cherbourg,Did not survive
+94,First,Male,36,0,0,26.39,Southampton,Survived
+95,First,Male,30,0,0,27.75,Cherbourg,Did not survive
+96,First,Female,24,3,2,263.0,Southampton,Survived
+97,First,Female,28,3,2,263.0,Southampton,Survived
+98,First,Female,23,3,2,263.0,Southampton,Survived
+99,First,Male,19,3,2,263.0,Southampton,Did not survive
+100,First,Male,64,1,4,263.0,Southampton,Did not survive
+101,First,Female,60,1,4,263.0,Southampton,Survived
+102,First,Female,30,0,0,56.93,Cherbourg,Survived
+103,First,Male,50,2,0,133.65,Southampton,Survived
+104,First,Male,43,1,0,27.72,Cherbourg,Survived
+105,First,Female,22,0,2,49.5,Cherbourg,Survived
+106,First,Male,60,1,1,79.2,Cherbourg,Survived
+107,First,Female,48,1,1,79.2,Cherbourg,Survived
+108,First,Male,37,1,0,53.1,Southampton,Did not survive
+109,First,Female,35,1,0,53.1,Southampton,Survived
+110,First,Male,47,0,0,38.5,Southampton,Did not survive
+111,First,Female,35,0,0,211.5,Cherbourg,Survived
+112,First,Female,22,0,1,59.4,Cherbourg,Survived
+113,First,Female,45,0,1,59.4,Cherbourg,Survived
+114,First,Male,24,0,0,79.2,Cherbourg,Did not survive
+115,First,Male,49,1,0,89.1,Cherbourg,Survived
+116,First,Male,71,0,0,34.65,Cherbourg,Did not survive
+117,First,Male,53,0,0,28.5,Cherbourg,Survived
+118,First,Female,19,0,0,30.0,Southampton,Survived
+119,First,Male,38,0,1,153.46,Southampton,Did not survive
+120,First,Female,58,0,1,153.46,Southampton,Survived
+121,First,Male,23,0,1,63.36,Cherbourg,Survived
+122,First,Female,45,0,1,63.36,Cherbourg,Survived
+123,First,Male,46,0,0,79.2,Cherbourg,Did not survive
+124,First,Male,25,1,0,55.44,Cherbourg,Survived
+125,First,Female,25,1,0,55.44,Cherbourg,Survived
+126,First,Male,48,1,0,76.73,Cherbourg,Survived
+127,First,Female,49,1,0,76.73,Cherbourg,Survived
+128,First,Male,45,1,0,83.47,Southampton,Did not survive
+129,First,Female,35,1,0,83.47,Southampton,Survived
+130,First,Male,27,0,0,76.73,Cherbourg,Survived
+131,First,Female,24,0,0,83.16,Cherbourg,Survived
+132,First,Male,55,1,1,93.5,Southampton,Did not survive
+133,First,Female,52,1,1,93.5,Southampton,Survived
+134,First,Male,42,0,0,42.5,Southampton,Did not survive
+135,First,Male,55,0,0,50.0,Southampton,Did not survive
+136,First,Female,16,0,1,57.98,Cherbourg,Survived
+137,First,Female,44,0,1,57.98,Cherbourg,Survived
+138,First,Female,51,1,0,77.96,Southampton,Survived
+139,First,Male,42,1,0,52.0,Southampton,Did not survive
+140,First,Female,35,1,0,52.0,Southampton,Survived
+141,First,Male,35,0,0,26.55,Cherbourg,Survived
+142,First,Male,38,1,0,90.0,Southampton,Survived
+143,First,Female,35,1,0,90.0,Southampton,Survived
+144,First,Female,38,0,0,80.0,,Survived
+145,First,Female,50,0,0,28.71,Cherbourg,Did not survive
+146,First,Male,46,0,0,26.0,Southampton,Did not survive
+147,First,Male,50,0,0,26.0,Southampton,Did not survive
+148,First,Male,32,0,0,211.5,Cherbourg,Did not survive
+149,First,Male,58,0,0,29.7,Cherbourg,Did not survive
+150,First,Male,41,1,0,51.86,Southampton,Did not survive
+151,First,Male,42,1,0,52.55,Southampton,Survived
+152,First,Female,45,1,0,52.55,Southampton,Survived
+153,First,Female,39,0,0,211.34,Southampton,Survived
+154,First,Female,49,0,0,25.93,Southampton,Survived
+155,First,Female,30,0,0,106.42,Cherbourg,Survived
+156,First,Male,42,0,0,26.55,Southampton,Did not survive
+157,First,Female,55,0,0,27.72,Cherbourg,Survived
+158,First,Female,16,0,1,39.4,Southampton,Survived
+159,First,Female,51,0,1,39.4,Southampton,Survived
+160,First,Male,29,0,0,30.0,Southampton,Did not survive
+161,First,Female,21,0,0,77.96,Southampton,Survived
+162,First,Male,30,0,0,45.5,Southampton,Did not survive
+163,First,Female,58,0,0,146.52,Cherbourg,Survived
+164,First,Female,15,0,1,211.34,Southampton,Survived
+165,First,Male,30,0,0,26.0,Southampton,Did not survive
+166,First,Female,16,0,0,86.5,Southampton,Survived
+167,First,Male,19,1,0,53.1,Southampton,Did not survive
+168,First,Female,18,1,0,53.1,Southampton,Survived
+169,First,Female,24,0,0,49.5,Cherbourg,Survived
+170,First,Male,46,0,0,75.24,Cherbourg,Did not survive
+171,First,Male,54,0,0,51.86,Southampton,Did not survive
+172,First,Male,36,0,0,26.29,Southampton,Survived
+173,First,Male,28,1,0,82.17,Cherbourg,Did not survive
+174,First,Male,65,0,0,26.55,Southampton,Did not survive
+175,First,Male,44,2,0,90.0,Queenstown,Did not survive
+176,First,Female,33,1,0,90.0,Queenstown,Survived
+177,First,Female,37,1,0,90.0,Queenstown,Survived
+178,First,Male,30,1,0,57.75,Cherbourg,Survived
+179,First,Male,55,0,0,30.5,Southampton,Did not survive
+180,First,Male,47,0,0,42.4,Southampton,Did not survive
+181,First,Male,37,0,1,29.7,Cherbourg,Did not survive
+182,First,Female,31,1,0,113.28,Cherbourg,Survived
+183,First,Female,23,1,0,113.28,Cherbourg,Survived
+184,First,Male,58,0,2,113.28,Cherbourg,Did not survive
+185,First,Female,19,0,2,26.28,Southampton,Survived
+186,First,Male,64,0,0,26.0,Southampton,Did not survive
+187,First,Female,39,0,0,108.9,Cherbourg,Survived
+188,First,Female,22,0,1,61.98,Cherbourg,Survived
+189,First,Male,65,0,1,61.98,Cherbourg,Did not survive
+190,First,Male,28,0,0,27.72,Cherbourg,Did not survive
+191,First,Male,46,0,0,28.5,Southampton,Did not survive
+192,First,Male,23,0,0,93.5,Southampton,Did not survive
+193,First,Male,29,1,0,66.6,Southampton,Did not survive
+194,First,Female,22,1,0,66.6,Southampton,Survived
+195,First,Male,18,1,0,108.9,Cherbourg,Did not survive
+196,First,Female,17,1,0,108.9,Cherbourg,Survived
+197,First,Female,30,0,0,93.5,Southampton,Survived
+198,First,Male,52,0,0,30.5,Southampton,Survived
+199,First,Male,47,0,0,52.0,Southampton,Did not survive
+200,First,Female,56,0,1,83.16,Cherbourg,Survived
+201,First,Male,22,0,0,135.63,Cherbourg,Did not survive
+202,First,Female,43,0,1,211.34,Southampton,Survived
+203,First,Male,31,0,0,50.5,Southampton,Did not survive
+204,First,Male,45,0,0,26.55,Southampton,Survived
+205,First,Female,33,0,0,27.72,Cherbourg,Survived
+206,First,Male,46,0,0,79.2,Cherbourg,Did not survive
+207,First,Male,36,0,0,40.12,Cherbourg,Did not survive
+208,First,Female,33,0,0,86.5,Southampton,Survived
+209,First,Male,55,1,0,59.4,Cherbourg,Did not survive
+210,First,Female,54,1,0,59.4,Cherbourg,Survived
+211,First,Male,33,0,0,26.55,Southampton,Did not survive
+212,First,Male,13,2,2,262.38,Cherbourg,Survived
+213,First,Female,18,2,2,262.38,Cherbourg,Survived
+214,First,Female,21,2,2,262.38,Cherbourg,Survived
+215,First,Male,61,1,3,262.38,Cherbourg,Did not survive
+216,First,Female,48,1,3,262.38,Cherbourg,Survived
+217,First,Female,24,0,0,69.3,Cherbourg,Survived
+218,First,Female,35,1,0,57.75,Cherbourg,Survived
+219,First,Female,30,0,0,31.0,Cherbourg,Survived
+220,First,Male,34,0,0,26.55,Southampton,Survived
+221,First,Female,40,0,0,153.46,Southampton,Survived
+222,First,Male,35,0,0,26.29,Southampton,Survived
+223,First,Male,50,1,0,55.9,Southampton,Did not survive
+224,First,Female,39,1,0,55.9,Southampton,Survived
+225,First,Male,56,0,0,35.5,Cherbourg,Survived
+226,First,Male,28,0,0,35.5,Southampton,Survived
+227,First,Male,56,0,0,26.55,Southampton,Did not survive
+228,First,Male,56,0,0,30.7,Cherbourg,Did not survive
+229,First,Male,24,1,0,60.0,Southampton,Did not survive
+230,First,Female,18,1,0,60.0,Southampton,Survived
+231,First,Male,24,1,0,82.27,Southampton,Survived
+232,First,Female,23,1,0,82.27,Southampton,Survived
+233,First,Male,6,0,2,134.5,Cherbourg,Survived
+234,First,Male,45,1,1,134.5,Cherbourg,Survived
+235,First,Female,40,1,1,134.5,Cherbourg,Survived
+236,First,Male,57,1,0,146.52,Cherbourg,Did not survive
+237,First,Male,32,0,0,30.5,Cherbourg,Survived
+238,First,Male,62,0,0,26.55,Southampton,Did not survive
+239,First,Male,54,1,0,55.44,Cherbourg,Survived
+240,First,Female,43,1,0,55.44,Cherbourg,Survived
+241,First,Female,52,1,0,78.27,Cherbourg,Survived
+242,First,Female,62,0,0,80.0,,Survived
+243,First,Male,67,1,0,221.78,Southampton,Did not survive
+244,First,Female,63,1,0,221.78,Southampton,Did not survive
+245,First,Male,61,0,0,32.32,Southampton,Did not survive
+246,First,Female,48,0,0,25.93,Southampton,Survived
+247,First,Female,18,0,2,79.65,Southampton,Survived
+248,First,Male,52,1,1,79.65,Southampton,Did not survive
+249,First,Female,39,1,1,79.65,Southampton,Survived
+250,First,Male,48,1,0,52.0,Southampton,Survived
+251,First,Male,49,1,1,110.88,Cherbourg,Did not survive
+252,First,Male,17,0,2,110.88,Cherbourg,Survived
+253,First,Female,39,1,1,110.88,Cherbourg,Survived
+254,First,Male,31,0,0,28.54,Cherbourg,Survived
+255,First,Male,40,0,0,27.72,Cherbourg,Did not survive
+256,First,Male,61,0,0,33.5,Southampton,Did not survive
+257,First,Male,47,0,0,34.02,Southampton,Did not survive
+258,First,Male,64,1,0,75.25,Cherbourg,Did not survive
+259,First,Female,60,1,0,75.25,Cherbourg,Survived
+260,First,Male,60,0,0,26.55,Southampton,Did not survive
+261,First,Male,54,0,1,77.29,Southampton,Did not survive
+262,First,Male,21,0,1,77.29,Southampton,Did not survive
+263,First,Female,55,0,0,135.63,Cherbourg,Survived
+264,First,Female,31,0,2,164.87,Southampton,Survived
+265,First,Male,57,1,1,164.87,Southampton,Did not survive
+266,First,Female,45,1,1,164.87,Southampton,Survived
+267,First,Male,50,1,1,211.5,Cherbourg,Did not survive
+268,First,Male,27,0,2,211.5,Cherbourg,Did not survive
+269,First,Female,50,1,1,211.5,Cherbourg,Survived
+270,First,Female,21,0,0,26.55,Southampton,Survived
+271,First,Male,51,0,1,61.38,Cherbourg,Did not survive
+272,First,Male,21,0,1,61.38,Cherbourg,Survived
+273,First,Female,31,0,0,134.5,Cherbourg,Survived
+274,First,Male,62,0,0,26.55,Southampton,Did not survive
+275,First,Female,36,0,0,135.63,Cherbourg,Survived
+276,Second,Male,30,1,0,24.0,Cherbourg,Did not survive
+277,Second,Female,28,1,0,24.0,Cherbourg,Survived
+278,Second,Male,30,0,0,13.0,Southampton,Did not survive
+279,Second,Male,18,0,0,11.5,Southampton,Did not survive
+280,Second,Male,25,0,0,10.5,Southampton,Did not survive
+281,Second,Male,34,1,0,26.0,Southampton,Did not survive
+282,Second,Female,36,1,0,26.0,Southampton,Survived
+283,Second,Male,57,0,0,13.0,Southampton,Did not survive
+284,Second,Male,18,0,0,11.5,Southampton,Did not survive
+285,Second,Male,23,0,0,10.5,Southampton,Did not survive
+286,Second,Female,36,0,0,13.0,Southampton,Survived
+287,Second,Male,28,0,0,10.5,Southampton,Did not survive
+288,Second,Male,51,0,0,12.52,Southampton,Did not survive
+289,Second,Male,32,1,0,26.0,Southampton,Survived
+290,Second,Female,19,1,0,26.0,Southampton,Survived
+291,Second,Male,28,0,0,26.0,Southampton,Did not survive
+292,Second,Male,1,2,1,39.0,Southampton,Survived
+293,Second,Female,4,2,1,39.0,Southampton,Survived
+294,Second,Female,12,2,1,39.0,Southampton,Survived
+295,Second,Female,36,0,3,39.0,Southampton,Survived
+296,Second,Male,34,0,0,13.0,Southampton,Survived
+297,Second,Female,19,0,0,13.0,Southampton,Survived
+298,Second,Male,23,0,0,13.0,Southampton,Did not survive
+299,Second,Male,26,0,0,13.0,Southampton,Did not survive
+300,Second,Male,42,0,0,13.0,Southampton,Did not survive
+301,Second,Male,27,0,0,13.0,Southampton,Did not survive
+302,Second,Female,24,0,0,13.0,Southampton,Survived
+303,Second,Female,15,0,2,39.0,Southampton,Survived
+304,Second,Male,60,1,1,39.0,Southampton,Did not survive
+305,Second,Female,40,1,1,39.0,Southampton,Survived
+306,Second,Female,20,1,0,26.0,Southampton,Survived
+307,Second,Male,25,1,0,26.0,Southampton,Did not survive
+308,Second,Female,36,0,0,13.0,Southampton,Survived
+309,Second,Male,25,0,0,13.0,Southampton,Did not survive
+310,Second,Male,42,0,0,13.0,Southampton,Did not survive
+311,Second,Female,42,0,0,13.0,Southampton,Survived
+312,Second,Male,1,0,2,29.0,Southampton,Survived
+313,Second,Male,26,1,1,29.0,Southampton,Survived
+314,Second,Female,22,1,1,29.0,Southampton,Survived
+315,Second,Female,35,0,0,21.0,Southampton,Survived
+316,Second,Male,19,0,0,13.0,Southampton,Did not survive
+317,Second,Female,44,1,0,26.0,Southampton,Did not survive
+318,Second,Male,54,1,0,26.0,Southampton,Did not survive
+319,Second,Male,52,0,0,13.5,Southampton,Did not survive
+320,Second,Male,37,1,0,26.0,Southampton,Did not survive
+321,Second,Female,29,1,0,26.0,Southampton,Did not survive
+322,Second,Female,25,1,1,30.0,Southampton,Survived
+323,Second,Female,45,0,2,30.0,Southampton,Survived
+324,Second,Male,29,1,0,26.0,Southampton,Did not survive
+325,Second,Female,28,1,0,26.0,Southampton,Survived
+326,Second,Male,29,0,0,10.5,Southampton,Did not survive
+327,Second,Male,28,0,0,13.0,Southampton,Did not survive
+328,Second,Male,24,0,0,10.5,Southampton,Survived
+329,Second,Female,8,0,2,26.25,Southampton,Survived
+330,Second,Male,31,1,1,26.25,Southampton,Did not survive
+331,Second,Female,31,1,1,26.25,Southampton,Survived
+332,Second,Female,22,0,0,10.5,Southampton,Survived
+333,Second,Female,30,0,0,13.0,Southampton,Did not survive
+334,Second,Male,21,0,0,11.5,Southampton,Did not survive
+335,Second,Male,8,1,1,36.75,Southampton,Survived
+336,Second,Male,18,0,0,73.5,Southampton,Did not survive
+337,Second,Female,48,0,2,36.75,Southampton,Survived
+338,Second,Female,28,0,0,13.0,Southampton,Survived
+339,Second,Male,32,0,0,13.0,Southampton,Did not survive
+340,Second,Male,17,0,0,73.5,Southampton,Did not survive
+341,Second,Male,29,1,0,27.72,Cherbourg,Did not survive
+342,Second,Female,24,1,0,27.72,Cherbourg,Survived
+343,Second,Male,25,0,0,31.5,Southampton,Did not survive
+344,Second,Male,18,0,0,73.5,Southampton,Did not survive
+345,Second,Female,18,0,1,23.0,Southampton,Survived
+346,Second,Female,34,0,1,23.0,Southampton,Survived
+347,Second,Male,54,0,0,26.0,Southampton,Did not survive
+348,Second,Male,8,0,2,32.5,Southampton,Survived
+349,Second,Male,42,1,1,32.5,Southampton,Did not survive
+350,Second,Female,34,1,1,32.5,Southampton,Survived
+351,Second,Female,27,1,0,13.86,Cherbourg,Survived
+352,Second,Female,30,1,0,13.86,Cherbourg,Survived
+353,Second,Male,23,0,0,13.0,Southampton,Did not survive
+354,Second,Male,21,0,0,13.0,Southampton,Did not survive
+355,Second,Male,18,0,0,13.0,Southampton,Did not survive
+356,Second,Male,40,1,0,26.0,Southampton,Did not survive
+357,Second,Female,29,1,0,26.0,Southampton,Survived
+358,Second,Male,18,0,0,10.5,Southampton,Did not survive
+359,Second,Male,36,0,0,13.0,Southampton,Did not survive
+360,Second,Female,38,0,0,13.0,Southampton,Did not survive
+361,Second,Male,35,0,0,26.0,Southampton,Did not survive
+362,Second,Male,38,1,0,21.0,Southampton,Did not survive
+363,Second,Male,34,1,0,21.0,Southampton,Did not survive
+364,Second,Female,34,0,0,13.0,Southampton,Survived
+365,Second,Male,16,0,0,26.0,Southampton,Did not survive
+366,Second,Male,26,0,0,10.5,Southampton,Did not survive
+367,Second,Male,47,0,0,10.5,Southampton,Did not survive
+368,Second,Male,21,1,0,11.5,Southampton,Did not survive
+369,Second,Male,21,1,0,11.5,Southampton,Did not survive
+370,Second,Male,24,0,0,13.5,Southampton,Did not survive
+371,Second,Male,24,0,0,13.0,Southampton,Did not survive
+372,Second,Male,34,0,0,13.0,Southampton,Did not survive
+373,Second,Male,30,0,0,13.0,Southampton,Did not survive
+374,Second,Male,52,0,0,13.0,Southampton,Did not survive
+375,Second,Male,30,0,0,13.0,Southampton,Did not survive
+376,Second,Male,1,1,1,14.5,Southampton,Survived
+377,Second,Female,24,0,2,14.5,Southampton,Survived
+378,Second,Male,44,0,0,13.0,Southampton,Did not survive
+379,Second,Female,6,0,1,33.0,Southampton,Survived
+380,Second,Male,28,0,1,33.0,Southampton,Did not survive
+381,Second,Male,62,0,0,10.5,Southampton,Survived
+382,Second,Male,30,0,0,10.5,Southampton,Did not survive
+383,Second,Female,7,0,2,26.25,Southampton,Survived
+384,Second,Male,43,1,1,26.25,Southampton,Did not survive
+385,Second,Female,45,1,1,26.25,Southampton,Survived
+386,Second,Female,24,1,2,65.0,Southampton,Survived
+387,Second,Female,24,1,2,65.0,Southampton,Survived
+388,Second,Male,49,1,2,65.0,Southampton,Did not survive
+389,Second,Female,48,1,2,65.0,Southampton,Survived
+390,Second,Female,55,0,0,16.0,Southampton,Survived
+391,Second,Male,24,2,0,73.5,Southampton,Did not survive
+392,Second,Male,32,2,0,73.5,Southampton,Did not survive
+393,Second,Male,21,2,0,73.5,Southampton,Did not survive
+394,Second,Female,18,1,1,13.0,Southampton,Did not survive
+395,Second,Female,20,2,1,23.0,Southampton,Survived
+396,Second,Male,23,2,1,11.5,Southampton,Did not survive
+397,Second,Male,36,0,0,13.0,Southampton,Did not survive
+398,Second,Female,54,1,3,23.0,Southampton,Survived
+399,Second,Male,50,0,0,13.0,Southampton,Did not survive
+400,Second,Male,44,1,0,26.0,Southampton,Did not survive
+401,Second,Female,29,1,0,26.0,Southampton,Survived
+402,Second,Male,21,0,0,73.5,Southampton,Did not survive
+403,Second,Male,42,0,0,13.0,Southampton,Survived
+404,Second,Male,63,1,0,26.0,Southampton,Did not survive
+405,Second,Female,60,1,0,26.0,Southampton,Did not survive
+406,Second,Male,33,0,0,12.28,Southampton,Did not survive
+407,Second,Female,17,0,0,10.5,Southampton,Survived
+408,Second,Male,42,1,0,27.0,Southampton,Did not survive
+409,Second,Female,24,2,1,27.0,Southampton,Survived
+410,Second,Male,47,0,0,15.0,Southampton,Did not survive
+411,Second,Male,24,2,0,31.5,Southampton,Did not survive
+412,Second,Male,22,2,0,31.5,Southampton,Did not survive
+413,Second,Male,32,0,0,10.5,Southampton,Did not survive
+414,Second,Female,23,0,0,13.79,Cherbourg,Survived
+415,Second,Male,34,1,0,26.0,Southampton,Did not survive
+416,Second,Female,24,1,0,26.0,Southampton,Survived
+417,Second,Female,22,0,0,21.0,Southampton,Did not survive
+418,Second,Male,35,0,0,12.35,Queenstown,Did not survive
+419,Second,Female,45,0,0,13.5,Southampton,Survived
+420,Second,Male,57,0,0,12.35,Queenstown,Did not survive
+421,Second,Male,31,0,0,10.5,Southampton,Did not survive
+422,Second,Female,26,1,1,26.0,Southampton,Did not survive
+423,Second,Male,30,1,1,26.0,Southampton,Did not survive
+424,Second,Female,1,1,2,41.58,Cherbourg,Survived
+425,Second,Female,3,1,2,41.58,Cherbourg,Survived
+426,Second,Male,25,1,2,41.58,Cherbourg,Did not survive
+427,Second,Female,22,1,2,41.58,Cherbourg,Survived
+428,Second,Female,17,0,0,12.0,Cherbourg,Survived
+429,Second,Female,34,0,0,10.5,Southampton,Survived
+430,Second,Male,36,0,0,12.88,Cherbourg,Did not survive
+431,Second,Male,24,0,0,10.5,Southampton,Did not survive
+432,Second,Male,61,0,0,12.35,Queenstown,Did not survive
+433,Second,Male,50,1,0,26.0,Southampton,Did not survive
+434,Second,Female,42,1,0,26.0,Southampton,Survived
+435,Second,Female,57,0,0,10.5,Southampton,Did not survive
+436,Second,Male,1,0,2,37.0,Cherbourg,Survived
+437,Second,Male,31,1,1,37.0,Cherbourg,Did not survive
+438,Second,Female,24,1,1,37.0,Cherbourg,Survived
+439,Second,Male,30,0,0,13.0,Southampton,Did not survive
+440,Second,Male,40,0,0,16.0,Southampton,Did not survive
+441,Second,Male,32,0,0,13.5,Southampton,Did not survive
+442,Second,Male,30,0,0,13.0,Southampton,Did not survive
+443,Second,Male,46,0,0,26.0,Southampton,Did not survive
+444,Second,Female,13,0,1,19.5,Southampton,Survived
+445,Second,Female,41,0,1,19.5,Southampton,Survived
+446,Second,Male,19,0,0,10.5,Southampton,Survived
+447,Second,Male,39,0,0,13.0,Southampton,Did not survive
+448,Second,Male,48,0,0,13.0,Southampton,Did not survive
+449,Second,Male,70,0,0,10.5,Southampton,Did not survive
+450,Second,Male,27,0,0,13.0,Southampton,Did not survive
+451,Second,Male,54,0,0,14.0,Southampton,Did not survive
+452,Second,Male,39,0,0,26.0,Southampton,Did not survive
+453,Second,Male,16,0,0,10.5,Southampton,Did not survive
+454,Second,Male,62,0,0,9.69,Queenstown,Did not survive
+455,Second,Male,32,1,0,30.07,Cherbourg,Did not survive
+456,Second,Female,14,1,0,30.07,Cherbourg,Survived
+457,Second,Male,2,1,1,26.0,Southampton,Survived
+458,Second,Male,3,1,1,26.0,Southampton,Survived
+459,Second,Male,36,0,2,26.0,Southampton,Did not survive
+460,Second,Male,26,0,0,13.0,Southampton,Did not survive
+461,Second,Male,19,1,1,36.75,Southampton,Did not survive
+462,Second,Male,28,0,0,13.5,Southampton,Did not survive
+463,Second,Male,20,0,0,13.86,Cherbourg,Survived
+464,Second,Female,29,0,0,10.5,Southampton,Survived
+465,Second,Male,39,0,0,13.0,Southampton,Did not survive
+466,Second,Male,22,0,0,10.5,Southampton,Survived
+467,Second,Male,23,0,0,10.5,Southampton,Did not survive
+468,Second,Male,29,0,0,13.86,Cherbourg,Survived
+469,Second,Male,28,0,0,10.5,Southampton,Did not survive
+470,Second,Female,50,0,1,26.0,Southampton,Survived
+471,Second,Male,19,0,0,10.5,Southampton,Did not survive
+472,Second,Male,41,0,0,13.0,Southampton,Did not survive
+473,Second,Female,21,0,1,21.0,Southampton,Survived
+474,Second,Female,19,0,0,26.0,Southampton,Survived
+475,Second,Male,43,0,1,21.0,Southampton,Did not survive
+476,Second,Female,32,0,0,13.0,Southampton,Survived
+477,Second,Male,34,0,0,13.0,Southampton,Did not survive
+478,Second,Male,30,0,0,12.74,Cherbourg,Survived
+479,Second,Male,27,0,0,15.03,Cherbourg,Did not survive
+480,Second,Female,2,1,1,26.0,Southampton,Survived
+481,Second,Female,8,1,1,26.0,Southampton,Survived
+482,Second,Female,33,0,2,26.0,Southampton,Survived
+483,Second,Male,36,0,0,10.5,Southampton,Did not survive
+484,Second,Male,34,1,0,21.0,Southampton,Did not survive
+485,Second,Female,30,3,0,21.0,Southampton,Survived
+486,Second,Female,28,0,0,13.0,Southampton,Survived
+487,Second,Male,23,0,0,15.05,Cherbourg,Did not survive
+488,Second,Male,1,1,1,18.75,Southampton,Survived
+489,Second,Male,3,1,1,18.75,Southampton,Survived
+490,Second,Female,24,2,3,18.75,Southampton,Survived
+491,Second,Female,50,0,0,10.5,Southampton,Survived
+492,Second,Male,19,0,0,10.5,Southampton,Did not survive
+493,Second,Female,21,0,0,10.5,Southampton,Survived
+494,Second,Male,26,0,0,13.0,Southampton,Did not survive
+495,Second,Male,25,0,0,13.0,Southampton,Did not survive
+496,Second,Male,27,0,0,26.0,Southampton,Did not survive
+497,Second,Female,25,0,1,26.0,Southampton,Survived
+498,Second,Female,18,0,2,13.0,Southampton,Survived
+499,Second,Female,20,0,0,36.75,Southampton,Survived
+500,Second,Female,30,0,0,13.0,Southampton,Survived
+501,Second,Male,59,0,0,13.5,Southampton,Did not survive
+502,Second,Female,30,0,0,12.35,Queenstown,Survived
+503,Second,Male,35,0,0,10.5,Southampton,Did not survive
+504,Second,Female,40,0,0,13.0,Southampton,Survived
+505,Second,Male,25,0,0,13.0,Southampton,Did not survive
+506,Second,Male,41,0,0,15.05,Cherbourg,Did not survive
+507,Second,Male,25,0,0,10.5,Southampton,Did not survive
+508,Second,Male,18,0,0,13.0,Southampton,Did not survive
+509,Second,Male,14,0,0,65.0,Southampton,Did not survive
+510,Second,Female,50,0,0,10.5,Southampton,Survived
+511,Second,Male,23,0,0,13.0,Southampton,Did not survive
+512,Second,Female,28,0,0,12.65,Southampton,Survived
+513,Second,Female,27,0,0,10.5,Southampton,Survived
+514,Second,Male,29,1,0,21.0,Southampton,Did not survive
+515,Second,Female,27,1,0,21.0,Southampton,Did not survive
+516,Second,Male,40,0,0,13.0,Southampton,Did not survive
+517,Second,Female,31,0,0,21.0,Southampton,Survived
+518,Second,Male,30,1,0,21.0,Southampton,Did not survive
+519,Second,Male,23,1,0,10.5,Southampton,Did not survive
+520,Second,Female,31,0,0,21.0,Southampton,Survived
+521,Second,Female,12,0,0,15.75,Southampton,Survived
+522,Second,Female,40,0,0,15.75,Southampton,Survived
+523,Second,Female,32,0,0,13.0,Southampton,Survived
+524,Second,Male,27,1,0,26.0,Southampton,Did not survive
+525,Second,Female,29,1,0,26.0,Southampton,Survived
+526,Second,Male,2,1,1,23.0,Southampton,Survived
+527,Second,Female,4,1,1,23.0,Southampton,Survived
+528,Second,Female,29,0,2,23.0,Southampton,Survived
+529,Second,Female,1,1,2,27.75,Southampton,Survived
+530,Second,Female,5,1,2,27.75,Southampton,Survived
+531,Second,Male,36,1,2,27.75,Southampton,Did not survive
+532,Second,Female,33,1,2,27.75,Southampton,Survived
+533,Second,Male,66,0,0,10.5,Southampton,Did not survive
+534,Second,Male,31,0,0,13.0,Southampton,Survived
+535,Second,Female,26,0,0,13.5,Southampton,Survived
+536,Second,Female,24,0,0,13.0,Southampton,Did not survive
+537,Third,Male,42,0,0,7.55,Southampton,Did not survive
+538,Third,Male,13,0,2,20.25,Southampton,Did not survive
+539,Third,Male,16,1,1,20.25,Southampton,Did not survive
+540,Third,Female,35,1,1,20.25,Southampton,Survived
+541,Third,Female,16,0,0,7.65,Southampton,Survived
+542,Third,Male,25,0,0,7.65,Southampton,Survived
+543,Third,Male,20,0,0,7.92,Southampton,Survived
+544,Third,Female,18,0,0,7.23,Cherbourg,Survived
+545,Third,Male,30,0,0,7.25,Southampton,Did not survive
+546,Third,Male,26,0,0,8.05,Southampton,Did not survive
+547,Third,Female,40,1,0,9.47,Southampton,Did not survive
+548,Third,Male,1,0,1,9.35,Southampton,Survived
+549,Third,Female,18,0,1,9.35,Southampton,Survived
+550,Third,Male,26,0,0,18.79,Cherbourg,Survived
+551,Third,Male,26,0,0,7.89,Southampton,Did not survive
+552,Third,Male,20,0,0,7.92,Southampton,Did not survive
+553,Third,Male,24,0,0,7.05,Southampton,Did not survive
+554,Third,Male,25,0,0,7.05,Southampton,Did not survive
+555,Third,Male,35,0,0,8.05,Southampton,Did not survive
+556,Third,Male,18,0,0,8.3,Southampton,Did not survive
+557,Third,Male,32,0,0,22.52,Southampton,Did not survive
+558,Third,Female,19,1,0,7.85,Southampton,Survived
+559,Third,Male,4,4,2,31.27,Southampton,Did not survive
+560,Third,Female,6,4,2,31.27,Southampton,Did not survive
+561,Third,Female,2,4,2,31.27,Southampton,Did not survive
+562,Third,Female,17,4,2,7.92,Southampton,Survived
+563,Third,Female,38,4,2,7.78,Southampton,Did not survive
+564,Third,Female,9,4,2,31.27,Southampton,Did not survive
+565,Third,Female,11,4,2,31.27,Southampton,Did not survive
+566,Third,Male,39,1,5,31.27,Southampton,Did not survive
+567,Third,Male,27,0,0,7.8,Southampton,Survived
+568,Third,Male,26,0,0,7.78,Southampton,Did not survive
+569,Third,Female,39,1,5,31.27,Southampton,Did not survive
+570,Third,Male,20,0,0,7.85,Southampton,Did not survive
+571,Third,Male,26,0,0,7.9,Southampton,Did not survive
+572,Third,Male,25,1,0,17.8,Southampton,Did not survive
+573,Third,Female,18,1,0,17.8,Southampton,Did not survive
+574,Third,Male,24,0,0,7.78,Southampton,Did not survive
+575,Third,Male,35,0,0,7.05,Southampton,Did not survive
+576,Third,Male,5,4,2,31.39,Southampton,Did not survive
+577,Third,Male,9,4,2,31.39,Southampton,Did not survive
+578,Third,Male,3,4,2,31.39,Southampton,Survived
+579,Third,Male,13,4,2,31.39,Southampton,Did not survive
+580,Third,Female,5,4,2,31.39,Southampton,Survived
+581,Third,Male,40,1,5,31.39,Southampton,Did not survive
+582,Third,Male,23,0,0,7.8,Southampton,Survived
+583,Third,Female,38,1,5,31.39,Southampton,Survived
+584,Third,Female,45,0,0,7.22,Cherbourg,Survived
+585,Third,Male,21,0,0,7.22,Cherbourg,Did not survive
+586,Third,Male,23,0,0,7.05,Southampton,Did not survive
+587,Third,Female,17,0,0,14.46,Cherbourg,Did not survive
+588,Third,Male,30,0,0,7.22,Cherbourg,Did not survive
+589,Third,Male,23,0,0,7.85,Southampton,Did not survive
+590,Third,Female,13,0,0,7.23,Cherbourg,Survived
+591,Third,Male,20,0,0,7.22,Cherbourg,Did not survive
+592,Third,Male,32,1,0,15.85,Southampton,Did not survive
+593,Third,Female,33,3,0,15.85,Southampton,Survived
+594,Third,Female,1,2,1,19.26,Cherbourg,Survived
+595,Third,Female,1,2,1,19.26,Cherbourg,Survived
+596,Third,Female,5,2,1,19.26,Cherbourg,Survived
+597,Third,Female,24,0,3,19.26,Cherbourg,Survived
+598,Third,Female,18,0,0,8.05,Southampton,Survived
+599,Third,Male,40,0,0,7.22,Cherbourg,Did not survive
+600,Third,Male,26,0,0,7.9,Southampton,Did not survive
+601,Third,Male,20,0,0,7.23,Cherbourg,Survived
+602,Third,Female,18,0,1,14.45,Cherbourg,Did not survive
+603,Third,Female,45,0,1,14.45,Cherbourg,Did not survive
+604,Third,Female,27,0,0,7.88,Queenstown,Did not survive
+605,Third,Male,22,0,0,8.05,Southampton,Did not survive
+606,Third,Male,19,0,0,8.05,Southampton,Did not survive
+607,Third,Male,26,0,0,7.78,Southampton,Did not survive
+608,Third,Male,22,0,0,9.35,Southampton,Did not survive
+609,Third,Male,20,0,0,4.01,Cherbourg,Did not survive
+610,Third,Male,32,0,0,56.5,Southampton,Survived
+611,Third,Male,21,0,0,7.78,Southampton,Did not survive
+612,Third,Male,18,0,0,7.75,Southampton,Did not survive
+613,Third,Male,26,0,0,7.9,Southampton,Did not survive
+614,Third,Male,6,1,1,15.25,Cherbourg,Did not survive
+615,Third,Female,9,1,1,15.25,Cherbourg,Did not survive
+616,Third,Male,40,1,1,15.5,Queenstown,Did not survive
+617,Third,Female,32,1,1,15.5,Queenstown,Did not survive
+618,Third,Male,21,0,0,16.1,Southampton,Did not survive
+619,Third,Female,22,0,0,7.72,Queenstown,Survived
+620,Third,Female,20,0,0,7.85,Southampton,Did not survive
+621,Third,Male,29,1,0,7.05,Southampton,Did not survive
+622,Third,Male,22,1,0,7.25,Southampton,Did not survive
+623,Third,Male,22,0,0,7.8,Southampton,Did not survive
+624,Third,Male,35,0,0,8.05,Southampton,Did not survive
+625,Third,Female,18,0,0,7.28,Queenstown,Did not survive
+626,Third,Male,21,0,0,7.82,Queenstown,Survived
+627,Third,Male,19,0,0,6.75,Queenstown,Did not survive
+628,Third,Female,18,0,0,7.88,Queenstown,Did not survive
+629,Third,Female,21,0,0,8.66,Southampton,Did not survive
+630,Third,Female,30,0,0,8.66,Southampton,Did not survive
+631,Third,Male,18,0,0,8.66,Southampton,Did not survive
+632,Third,Male,38,0,0,8.66,Southampton,Did not survive
+633,Third,Male,17,0,0,8.66,Southampton,Did not survive
+634,Third,Male,17,0,0,8.66,Southampton,Did not survive
+635,Third,Female,21,0,0,7.75,Queenstown,Did not survive
+636,Third,Male,21,0,0,7.75,Queenstown,Did not survive
+637,Third,Male,21,0,0,8.05,Southampton,Did not survive
+638,Third,Male,28,0,0,7.8,Southampton,Did not survive
+639,Third,Male,24,0,0,7.85,Southampton,Did not survive
+640,Third,Female,16,0,0,7.75,Queenstown,Survived
+641,Third,Female,37,0,0,7.75,Queenstown,Did not survive
+642,Third,Male,28,0,0,7.25,Southampton,Did not survive
+643,Third,Male,24,0,0,8.05,Southampton,Did not survive
+644,Third,Male,21,0,0,7.73,Queenstown,Did not survive
+645,Third,Male,32,0,0,56.5,Southampton,Survived
+646,Third,Male,29,0,0,8.05,Southampton,Did not survive
+647,Third,Male,26,1,0,14.45,Cherbourg,Did not survive
+648,Third,Male,18,1,0,14.45,Cherbourg,Did not survive
+649,Third,Male,20,0,0,7.05,Southampton,Did not survive
+650,Third,Male,18,0,0,8.05,Southampton,Survived
+651,Third,Male,24,0,0,7.25,Queenstown,Did not survive
+652,Third,Male,36,0,0,7.5,Southampton,Did not survive
+653,Third,Male,24,0,0,7.5,Southampton,Did not survive
+654,Third,Male,31,0,0,7.73,Queenstown,Did not survive
+655,Third,Male,31,0,0,7.75,Queenstown,Did not survive
+656,Third,Female,22,0,0,7.75,Queenstown,Survived
+657,Third,Female,30,0,0,7.63,Queenstown,Did not survive
+658,Third,Male,70,0,0,7.75,Queenstown,Did not survive
+659,Third,Male,43,0,0,8.05,Southampton,Did not survive
+660,Third,Male,35,0,0,7.9,Southampton,Did not survive
+661,Third,Male,27,0,0,7.9,Southampton,Did not survive
+662,Third,Male,19,0,0,7.9,Southampton,Did not survive
+663,Third,Male,30,0,0,8.05,Southampton,Did not survive
+664,Third,Male,9,1,1,15.9,Southampton,Survived
+665,Third,Male,3,1,1,15.9,Southampton,Survived
+666,Third,Female,36,0,2,15.9,Southampton,Survived
+667,Third,Male,59,0,0,7.25,Southampton,Did not survive
+668,Third,Male,19,0,0,8.16,Southampton,Did not survive
+669,Third,Female,17,0,1,16.1,Southampton,Survived
+670,Third,Male,44,0,1,16.1,Southampton,Did not survive
+671,Third,Male,17,0,0,8.66,Southampton,Did not survive
+672,Third,Male,22,0,0,7.22,Cherbourg,Did not survive
+673,Third,Male,45,0,0,8.05,Southampton,Survived
+674,Third,Female,22,0,0,10.52,Southampton,Did not survive
+675,Third,Male,19,0,0,10.17,Southampton,Did not survive
+676,Third,Female,30,0,0,6.95,Queenstown,Survived
+677,Third,Male,29,0,0,7.75,Queenstown,Survived
+678,Third,Male,0,0,2,14.4,Southampton,Did not survive
+679,Third,Male,34,1,1,14.4,Southampton,Did not survive
+680,Third,Female,28,1,1,14.4,Southampton,Did not survive
+681,Third,Male,27,0,0,7.9,Southampton,Did not survive
+682,Third,Male,25,0,0,7.9,Southampton,Did not survive
+683,Third,Male,24,2,0,24.15,Southampton,Did not survive
+684,Third,Male,22,0,0,8.05,Southampton,Did not survive
+685,Third,Male,21,2,0,24.15,Southampton,Did not survive
+686,Third,Male,17,2,0,8.05,Southampton,Did not survive
+687,Third,Male,36,1,0,17.4,Southampton,Survived
+688,Third,Female,36,1,0,17.4,Southampton,Survived
+689,Third,Male,30,0,0,9.5,Southampton,Survived
+690,Third,Male,16,0,0,9.5,Southampton,Did not survive
+691,Third,Male,1,1,2,20.57,Southampton,Survived
+692,Third,Female,0,1,2,20.57,Southampton,Survived
+693,Third,Male,26,1,2,20.57,Southampton,Did not survive
+694,Third,Female,33,1,2,20.57,Southampton,Survived
+695,Third,Male,25,0,0,7.9,Southampton,Did not survive
+696,Third,Male,22,0,0,7.25,Southampton,Did not survive
+697,Third,Male,36,0,0,7.25,Southampton,Did not survive
+698,Third,Female,19,0,0,7.88,Queenstown,Survived
+699,Third,Male,17,0,0,7.9,Southampton,Did not survive
+700,Third,Male,42,0,0,8.66,Southampton,Did not survive
+701,Third,Male,43,0,0,7.9,Southampton,Did not survive
+702,Third,Male,32,0,0,7.75,Queenstown,Did not survive
+703,Third,Male,19,0,0,8.05,Southampton,Survived
+704,Third,Female,30,0,0,12.48,Southampton,Survived
+705,Third,Female,24,0,0,7.75,Queenstown,Did not survive
+706,Third,Female,23,0,0,8.05,Southampton,Survived
+707,Third,Male,33,0,0,7.9,Cherbourg,Did not survive
+708,Third,Male,65,0,0,7.75,Queenstown,Did not survive
+709,Third,Male,24,0,0,7.55,Southampton,Survived
+710,Third,Male,23,1,0,13.9,Southampton,Did not survive
+711,Third,Female,22,1,0,13.9,Southampton,Survived
+712,Third,Male,18,0,0,7.78,Southampton,Did not survive
+713,Third,Male,16,0,0,7.78,Southampton,Did not survive
+714,Third,Male,45,0,0,6.97,Southampton,Did not survive
+715,Third,Male,39,0,2,7.23,Cherbourg,Did not survive
+716,Third,Male,17,1,1,7.23,Cherbourg,Did not survive
+717,Third,Male,15,1,1,7.23,Cherbourg,Did not survive
+718,Third,Male,47,0,0,7.25,Southampton,Did not survive
+719,Third,Female,5,0,0,12.48,Southampton,Survived
+720,Third,Male,40,0,0,15.1,Southampton,Did not survive
+721,Third,Male,40,0,0,7.75,Queenstown,Did not survive
+722,Third,Male,18,0,0,7.8,Southampton,Did not survive
+723,Third,Male,26,0,0,7.88,Queenstown,Did not survive
+724,Third,Female,21,2,2,34.38,Southampton,Did not survive
+725,Third,Female,9,2,2,34.38,Southampton,Did not survive
+726,Third,Male,18,2,2,34.38,Southampton,Did not survive
+727,Third,Male,16,1,3,34.38,Southampton,Did not survive
+728,Third,Female,48,1,3,34.38,Southampton,Did not survive
+729,Third,Male,25,0,0,7.74,Queenstown,Did not survive
+730,Third,Male,22,0,0,8.05,Southampton,Did not survive
+731,Third,Female,16,0,0,7.73,Queenstown,Survived
+732,Third,Male,9,0,2,20.52,Southampton,Survived
+733,Third,Male,33,1,1,20.52,Southampton,Did not survive
+734,Third,Male,41,0,0,7.85,Southampton,Did not survive
+735,Third,Female,31,1,1,20.52,Southampton,Survived
+736,Third,Male,38,0,0,7.05,Southampton,Did not survive
+737,Third,Male,9,5,2,46.9,Southampton,Did not survive
+738,Third,Male,1,5,2,46.9,Southampton,Did not survive
+739,Third,Male,11,5,2,46.9,Southampton,Did not survive
+740,Third,Female,10,5,2,46.9,Southampton,Did not survive
+741,Third,Female,16,5,2,46.9,Southampton,Did not survive
+742,Third,Male,14,5,2,46.9,Southampton,Did not survive
+743,Third,Male,40,1,6,46.9,Southampton,Did not survive
+744,Third,Female,43,1,6,46.9,Southampton,Did not survive
+745,Third,Male,51,0,0,8.05,Southampton,Did not survive
+746,Third,Male,32,0,0,8.36,Southampton,Did not survive
+747,Third,Male,20,0,0,9.85,Southampton,Did not survive
+748,Third,Male,37,2,0,7.92,Southampton,Did not survive
+749,Third,Male,28,2,0,7.92,Southampton,Did not survive
+750,Third,Male,19,0,0,7.78,Southampton,Did not survive
+751,Third,Female,24,0,0,8.85,Southampton,Did not survive
+752,Third,Female,17,0,0,7.73,Queenstown,Did not survive
+753,Third,Male,28,1,0,15.85,Southampton,Did not survive
+754,Third,Female,24,1,0,15.85,Southampton,Survived
+755,Third,Male,20,0,0,9.5,Southampton,Did not survive
+756,Third,Male,24,0,0,7.23,Cherbourg,Did not survive
+757,Third,Male,41,2,0,14.11,Southampton,Did not survive
+758,Third,Male,26,1,0,7.85,Southampton,Did not survive
+759,Third,Male,21,0,0,7.85,Southampton,Did not survive
+760,Third,Female,45,1,0,14.11,Southampton,Survived
+761,Third,Male,25,0,0,7.25,Southampton,Did not survive
+762,Third,Male,11,0,0,18.79,Cherbourg,Did not survive
+763,Third,Male,27,0,0,6.97,Southampton,Survived
+764,Third,Female,18,0,0,6.75,Queenstown,Did not survive
+765,Third,Female,26,0,0,7.92,Southampton,Survived
+766,Third,Female,23,0,0,7.92,Southampton,Did not survive
+767,Third,Female,22,0,0,8.96,Southampton,Survived
+768,Third,Male,28,0,0,7.9,Southampton,Did not survive
+769,Third,Female,28,0,0,7.78,Southampton,Did not survive
+770,Third,Female,2,0,1,12.29,Southampton,Survived
+771,Third,Female,22,1,1,12.29,Southampton,Survived
+772,Third,Male,43,0,0,6.45,Southampton,Did not survive
+773,Third,Male,28,0,0,22.52,Southampton,Did not survive
+774,Third,Female,27,0,0,7.92,Southampton,Survived
+775,Third,Male,42,0,0,7.65,Southampton,Did not survive
+776,Third,Male,30,0,0,7.23,Cherbourg,Did not survive
+777,Third,Female,27,1,0,7.92,Southampton,Did not survive
+778,Third,Female,25,1,0,7.92,Southampton,Did not survive
+779,Third,Male,29,0,0,7.9,Cherbourg,Survived
+780,Third,Male,21,0,0,7.8,Southampton,Survived
+781,Third,Male,20,0,0,7.85,Southampton,Did not survive
+782,Third,Male,48,0,0,7.85,Southampton,Did not survive
+783,Third,Male,17,1,0,7.05,Southampton,Did not survive
+784,Third,Male,34,0,0,6.5,Southampton,Did not survive
+785,Third,Male,26,0,0,7.78,Southampton,Survived
+786,Third,Male,22,0,0,7.8,Southampton,Did not survive
+787,Third,Male,33,0,0,8.65,Southampton,Did not survive
+788,Third,Male,31,0,0,7.78,Southampton,Did not survive
+789,Third,Male,29,0,0,7.85,Southampton,Did not survive
+790,Third,Male,4,1,1,11.13,Southampton,Survived
+791,Third,Female,1,1,1,11.13,Southampton,Survived
+792,Third,Male,33,0,0,7.78,Southampton,Did not survive
+793,Third,Female,27,0,2,11.13,Southampton,Survived
+794,Third,Male,23,0,0,7.9,Southampton,Did not survive
+795,Third,Male,32,0,0,7.85,Southampton,Survived
+796,Third,Male,27,0,0,7.85,Southampton,Did not survive
+797,Third,Female,20,1,0,9.82,Southampton,Did not survive
+798,Third,Female,21,1,0,9.82,Southampton,Did not survive
+799,Third,Male,32,0,0,7.92,Southampton,Survived
+800,Third,Male,17,0,0,7.12,Southampton,Did not survive
+801,Third,Male,21,0,0,8.43,Southampton,Did not survive
+802,Third,Male,30,0,0,7.9,Southampton,Did not survive
+803,Third,Male,21,0,0,7.8,Southampton,Survived
+804,Third,Male,33,0,0,7.85,Southampton,Did not survive
+805,Third,Male,22,0,0,7.52,Southampton,Did not survive
+806,Third,Female,4,0,1,13.42,Cherbourg,Survived
+807,Third,Male,39,0,1,13.42,Cherbourg,Survived
+808,Third,Male,18,0,0,7.23,Cherbourg,Did not survive
+809,Third,Male,34,0,0,7.83,Queenstown,Did not survive
+810,Third,Male,44,0,0,8.05,Southampton,Did not survive
+811,Third,Female,22,2,0,8.66,Southampton,Did not survive
+812,Third,Male,26,2,0,8.66,Southampton,Did not survive
+813,Third,Female,4,0,2,22.02,Southampton,Survived
+814,Third,Male,29,3,1,22.02,Southampton,Survived
+815,Third,Female,26,1,1,22.02,Southampton,Survived
+816,Third,Female,1,1,1,12.18,Southampton,Did not survive
+817,Third,Male,18,1,1,7.85,Southampton,Did not survive
+818,Third,Female,36,0,2,12.18,Southampton,Did not survive
+819,Third,Male,25,0,0,7.23,Cherbourg,Survived
+820,Third,Female,37,0,0,9.59,Southampton,Did not survive
+821,Third,Female,22,0,0,7.25,Southampton,Survived
+822,Third,Male,26,0,0,56.5,Southampton,Survived
+823,Third,Male,29,0,0,9.48,Southampton,Did not survive
+824,Third,Male,29,0,0,7.78,Southampton,Did not survive
+825,Third,Male,22,0,0,7.78,Southampton,Did not survive
+826,Third,Male,22,0,0,7.22,Cherbourg,Survived
+827,Third,Male,32,0,0,7.92,Southampton,Did not survive
+828,Third,Male,34,0,0,6.44,Cherbourg,Did not survive
+829,Third,Male,39,0,0,24.15,Southampton,Did not survive
+830,Third,Male,24,0,0,9.5,Southampton,Did not survive
+831,Third,Female,25,0,0,7.78,Southampton,Did not survive
+832,Third,Female,45,0,0,7.75,Southampton,Did not survive
+833,Third,Male,36,1,0,15.55,Southampton,Did not survive
+834,Third,Female,30,1,0,15.55,Southampton,Did not survive
+835,Third,Male,20,1,0,7.92,Southampton,Survived
+836,Third,Male,28,0,0,56.5,Southampton,Did not survive
+837,Third,Male,30,1,0,16.1,Southampton,Did not survive
+838,Third,Female,26,1,0,16.1,Southampton,Did not survive
+839,Third,Male,20,0,0,7.25,Southampton,Did not survive
+840,Third,Male,27,0,0,8.66,Southampton,Survived
+841,Third,Male,51,0,0,7.05,Southampton,Did not survive
+842,Third,Female,23,0,0,7.85,Southampton,Survived
+843,Third,Male,32,0,0,7.58,Southampton,Survived
+844,Third,Male,24,0,0,7.14,Southampton,Survived
+845,Third,Male,22,0,0,7.12,Southampton,Did not survive
+846,Third,Male,29,0,0,7.92,Southampton,Did not survive
+847,Third,Female,30,0,0,7.75,Queenstown,Did not survive
+848,Third,Male,35,0,0,7.9,Cherbourg,Did not survive
+849,Third,Male,33,0,0,7.9,Southampton,Did not survive
+850,Third,Female,15,0,0,8.03,Queenstown,Survived
+851,Third,Female,35,0,0,7.75,Queenstown,Did not survive
+852,Third,Male,24,1,0,16.1,Southampton,Did not survive
+853,Third,Female,19,1,0,16.1,Southampton,Did not survive
+854,Third,Male,56,0,0,8.05,Southampton,Did not survive
+855,Third,Male,21,0,0,7.78,Southampton,Survived
+856,Third,Male,24,0,0,7.9,Southampton,Did not survive
+857,Third,Male,21,0,0,7.9,Southampton,Did not survive
+858,Third,Male,28,0,0,7.9,Southampton,Did not survive
+859,Third,Male,25,0,0,7.65,Southampton,Did not survive
+860,Third,Male,6,0,1,12.48,Southampton,Survived
+861,Third,Female,27,0,1,12.48,Southampton,Survived
+862,Third,Male,34,0,0,8.05,Southampton,Did not survive
+863,Third,Female,24,0,0,7.75,Queenstown,Survived
+864,Third,Male,18,0,0,7.75,Southampton,Did not survive
+865,Third,Male,22,0,0,7.9,Southampton,Did not survive
+866,Third,Female,15,0,0,7.22,Cherbourg,Survived
+867,Third,Female,1,0,2,15.74,Cherbourg,Survived
+868,Third,Male,20,1,1,15.74,Cherbourg,Survived
+869,Third,Female,19,1,1,15.74,Cherbourg,Survived
+870,Third,Male,33,0,0,8.05,Southampton,Did not survive
+871,Third,Male,12,1,0,11.24,Cherbourg,Survived
+872,Third,Female,14,1,0,11.24,Cherbourg,Survived
+873,Third,Female,29,0,0,7.92,Southampton,Did not survive
+874,Third,Male,28,0,0,8.05,Southampton,Did not survive
+875,Third,Female,18,0,0,7.78,Southampton,Survived
+876,Third,Female,26,0,0,7.85,Southampton,Survived
+877,Third,Male,21,0,0,7.85,Southampton,Did not survive
+878,Third,Male,41,0,0,7.12,Southampton,Did not survive
+879,Third,Male,39,0,0,7.92,Southampton,Survived
+880,Third,Male,21,0,0,7.8,Southampton,Did not survive
+881,Third,Male,28,0,0,7.23,Cherbourg,Did not survive
+882,Third,Female,22,0,0,7.75,Southampton,Survived
+883,Third,Male,61,0,0,6.24,Southampton,Did not survive
+884,Third,Male,23,0,0,9.22,Southampton,Did not survive
+885,Third,Female,22,0,0,7.78,Southampton,Survived
+886,Third,Male,9,0,1,3.17,Southampton,Survived
+887,Third,Male,28,0,0,22.52,Southampton,Did not survive
+888,Third,Male,42,0,1,8.4,Southampton,Did not survive
+889,Third,Female,31,0,0,7.85,Southampton,Did not survive
+890,Third,Male,28,0,0,7.85,Southampton,Did not survive
+891,Third,Male,32,0,0,7.78,Southampton,Survived
+892,Third,Male,20,0,0,9.22,Southampton,Did not survive
+893,Third,Female,23,0,0,8.66,Southampton,Did not survive
+894,Third,Female,20,0,0,8.66,Southampton,Did not survive
+895,Third,Male,20,0,0,8.66,Southampton,Did not survive
+896,Third,Male,16,0,0,9.22,Southampton,Did not survive
+897,Third,Female,31,0,0,8.68,Southampton,Survived
+898,Third,Male,2,3,1,21.07,Southampton,Did not survive
+899,Third,Male,6,3,1,21.07,Southampton,Did not survive
+900,Third,Female,3,3,1,21.07,Southampton,Did not survive
+901,Third,Female,8,3,1,21.07,Southampton,Did not survive
+902,Third,Female,29,0,4,21.07,Southampton,Did not survive
+903,Third,Male,1,4,1,39.69,Southampton,Did not survive
+904,Third,Male,7,4,1,39.69,Southampton,Did not survive
+905,Third,Male,2,4,1,39.69,Southampton,Did not survive
+906,Third,Male,16,4,1,39.69,Southampton,Did not survive
+907,Third,Male,14,4,1,39.69,Southampton,Did not survive
+908,Third,Female,41,0,5,39.69,Southampton,Did not survive
+909,Third,Male,21,0,0,8.66,Southampton,Did not survive
+910,Third,Male,19,0,0,14.5,Southampton,Did not survive
+911,Third,Male,32,0,0,7.9,Southampton,Did not survive
+912,Third,Male,1,1,1,13.78,Southampton,Did not survive
+913,Third,Female,3,1,1,13.78,Southampton,Did not survive
+914,Third,Female,26,0,2,13.78,Southampton,Did not survive
+915,Third,Male,21,0,0,7.92,Southampton,Did not survive
+916,Third,Male,25,0,0,7.92,Southampton,Did not survive
+917,Third,Male,22,0,0,7.25,Southampton,Did not survive
+918,Third,Male,25,1,0,7.78,Southampton,Survived
+919,Third,Male,24,0,0,8.05,Southampton,Did not survive
+920,Third,Female,28,0,0,7.9,Southampton,Did not survive
+921,Third,Male,19,0,0,7.9,Southampton,Did not survive
+922,Third,Male,25,1,0,7.78,Southampton,Did not survive
+923,Third,Female,18,0,0,7.78,Southampton,Did not survive
+924,Third,Male,32,0,0,8.05,Southampton,Survived
+925,Third,Male,17,0,0,8.66,Southampton,Did not survive
+926,Third,Male,24,0,0,8.66,Southampton,Did not survive
+927,Third,Male,38,0,0,7.9,Southampton,Did not survive
+928,Third,Male,21,0,0,8.05,Southampton,Did not survive
+929,Third,Male,10,4,1,29.12,Queenstown,Did not survive
+930,Third,Male,4,4,1,29.12,Queenstown,Did not survive
+931,Third,Male,7,4,1,29.12,Queenstown,Did not survive
+932,Third,Male,2,4,1,29.12,Queenstown,Did not survive
+933,Third,Male,8,4,1,29.12,Queenstown,Did not survive
+934,Third,Female,39,0,5,29.12,Queenstown,Did not survive
+935,Third,Female,22,0,0,39.69,Southampton,Did not survive
+936,Third,Male,35,0,0,7.12,Southampton,Did not survive
+937,Third,Male,50,1,0,14.5,Southampton,Did not survive
+938,Third,Female,47,1,0,14.5,Southampton,Did not survive
+939,Third,Female,2,1,1,20.21,Southampton,Did not survive
+940,Third,Male,18,1,1,20.21,Southampton,Did not survive
+941,Third,Female,41,0,2,20.21,Southampton,Did not survive
+942,Third,Male,50,0,0,8.05,Southampton,Did not survive
+943,Third,Male,16,0,0,8.05,Southampton,Did not survive
+944,Third,Male,25,0,0,7.22,Cherbourg,Did not survive
+945,Third,Male,38,0,0,7.25,Southampton,Did not survive
+946,Third,Male,14,8,2,69.55,Southampton,Did not survive
+947,Third,Male,24,0,0,9.32,Southampton,Did not survive
+948,Third,Female,21,0,0,7.65,Southampton,Survived
+949,Third,Male,39,0,0,7.92,Southampton,Did not survive
+950,Third,Female,1,1,1,16.7,Southampton,Survived
+951,Third,Female,24,0,2,16.7,Southampton,Survived
+952,Third,Female,4,1,1,16.7,Southampton,Survived
+953,Third,Male,25,0,0,9.5,Southampton,Survived
+954,Third,Male,20,0,0,8.05,Southampton,Did not survive
+955,Third,Male,24,0,0,8.05,Southampton,Did not survive
+956,Third,Male,29,0,0,9.5,Southampton,Survived
+957,Third,Male,22,0,0,7.23,Cherbourg,Did not survive
+958,Third,Male,40,0,0,7.9,Southampton,Did not survive
+959,Third,Male,21,0,0,7.92,Southampton,Did not survive
+960,Third,Female,18,0,0,7.5,Southampton,Survived
+961,Third,Male,4,3,2,27.9,Southampton,Did not survive
+962,Third,Male,10,3,2,27.9,Southampton,Did not survive
+963,Third,Female,9,3,2,27.9,Southampton,Did not survive
+964,Third,Female,2,3,2,27.9,Southampton,Did not survive
+965,Third,Male,40,1,4,27.9,Southampton,Did not survive
+966,Third,Female,45,1,4,27.9,Southampton,Did not survive
+967,Third,Male,19,0,0,7.65,Southampton,Did not survive
+968,Third,Male,30,0,0,8.05,Southampton,Did not survive
+969,Third,Male,32,0,0,8.05,Southampton,Did not survive
+970,Third,Male,33,0,0,8.66,Cherbourg,Did not survive
+971,Third,Female,23,0,0,7.55,Southampton,Survived
+972,Third,Male,21,0,0,8.05,Southampton,Did not survive
+973,Third,Male,19,0,0,7.9,Southampton,Did not survive
+974,Third,Female,22,0,0,9.84,Southampton,Did not survive
+975,Third,Male,31,0,0,7.92,Southampton,Survived
+976,Third,Male,27,0,0,8.66,Southampton,Did not survive
+977,Third,Female,2,0,1,10.46,Southampton,Did not survive
+978,Third,Female,29,1,1,10.46,Southampton,Did not survive
+979,Third,Male,16,0,0,8.05,Southampton,Survived
+980,Third,Male,44,0,0,7.92,Southampton,Survived
+981,Third,Male,25,0,0,7.05,Southampton,Did not survive
+982,Third,Male,74,0,0,7.78,Southampton,Did not survive
+983,Third,Male,14,0,0,9.22,Southampton,Survived
+984,Third,Male,24,0,0,7.8,Southampton,Did not survive
+985,Third,Male,25,0,0,7.8,Southampton,Survived
+986,Third,Male,34,0,0,8.05,Southampton,Did not survive
+987,Third,Male,0,0,1,8.52,Cherbourg,Survived
+988,Third,Female,16,1,1,8.52,Cherbourg,Survived
+989,Third,Male,32,0,0,7.92,Southampton,Did not survive
+990,Third,Male,30,0,0,8.05,Southampton,Did not survive
+991,Third,Male,44,0,0,8.05,Southampton,Did not survive
+992,Third,Male,7,1,1,15.25,Cherbourg,Survived
+993,Third,Female,9,1,1,15.25,Cherbourg,Survived
+994,Third,Female,29,0,2,15.25,Cherbourg,Survived
+995,Third,Male,36,0,0,7.9,Southampton,Did not survive
+996,Third,Female,18,0,0,9.84,Southampton,Survived
+997,Third,Female,63,0,0,9.59,Southampton,Survived
+998,Third,Male,12,1,1,14.5,Southampton,Did not survive
+999,Third,Male,40,0,2,14.5,Southampton,Did not survive
+1000,Third,Female,10,0,2,24.15,Southampton,Did not survive
+1001,Third,Male,36,1,1,24.15,Southampton,Did not survive
+1002,Third,Female,30,1,1,24.15,Southampton,Did not survive
+1003,Third,Male,33,0,0,9.5,Southampton,Did not survive
+1004,Third,Male,28,0,0,9.5,Southampton,Did not survive
+1005,Third,Male,28,0,0,9.5,Southampton,Did not survive
+1006,Third,Male,47,0,0,9.0,Southampton,Did not survive
+1007,Third,Female,18,2,0,18.0,Southampton,Did not survive
+1008,Third,Male,31,3,0,18.0,Southampton,Did not survive
+1009,Third,Male,16,2,0,18.0,Southampton,Did not survive
+1010,Third,Female,31,1,0,18.0,Southampton,Did not survive
+1011,Third,Male,22,0,0,7.22,Cherbourg,Survived
+1012,Third,Male,20,0,0,7.85,Southampton,Did not survive
+1013,Third,Female,14,0,0,7.85,Southampton,Did not survive
+1014,Third,Male,22,0,0,7.9,Southampton,Did not survive
+1015,Third,Male,22,0,0,9.0,Southampton,Did not survive
+1016,Third,Male,32,0,0,9.5,Southampton,Did not survive
+1017,Third,Female,38,0,0,7.23,Cherbourg,Survived
+1018,Third,Male,51,0,0,7.75,Southampton,Did not survive
+1019,Third,Male,18,1,0,6.5,Southampton,Did not survive
+1020,Third,Male,21,1,0,6.5,Southampton,Did not survive
+1021,Third,Female,47,1,0,7.0,Southampton,Survived
+1022,Third,Male,28,0,0,16.1,Southampton,Did not survive
+1023,Third,Male,21,0,0,7.25,Southampton,Did not survive
+1024,Third,Male,27,0,0,8.66,Southampton,Did not survive
+1025,Third,Male,36,0,0,9.5,Southampton,Did not survive
+1026,Third,Male,27,1,0,14.45,Cherbourg,Did not survive
+1027,Third,Female,15,1,0,14.45,Cherbourg,Survived
+1028,Third,Male,46,0,0,7.22,Cherbourg,Did not survive
+1029,Third,Female,14,1,0,14.45,Cherbourg,Did not survive
+1030,Third,Male,26,0,0,7.22,Cherbourg,Did not survive
+1031,Third,Male,27,0,0,7.22,Cherbourg,Did not survive
+1032,Third,Male,29,0,0,7.88,Southampton,Did not survive
